@@ -1,0 +1,10 @@
+Input: 
+- Intraday stock trading of analyzed stocks
+- 
+
+Output:
+---> Detect Cummulation of Firms 
+- Which time intervals are most traded (suspicious)? (DataFrame )
+- the line chart with suspicious trading. 
+- screenshot in the file
+- Group all time frame - calculate the volume exchange
